@@ -22,7 +22,7 @@ namespace M1IL_Sopra_Exercices
         
         private TrafficLightColor GetEnumFromString(string input)
         {
-            return (TrafficLightColor) Enum.Parse(typeof(TrafficLightColor), input);
+            return Enum.Parse<TrafficLightColor>(input);
         }
 
         public void Execute2()
