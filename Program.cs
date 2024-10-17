@@ -1,0 +1,11 @@
+﻿namespace M1IL_Sopra_Exercices
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Exo1 exo1 = new Exo1();
+            exo1.Execute();
+        }
+    }
+}
