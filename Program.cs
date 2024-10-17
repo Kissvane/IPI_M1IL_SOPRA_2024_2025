@@ -25,8 +25,14 @@
             //Exo7 exo7 = new Exo7();
             //exo7.Execute();
 
-            Exo8 exo8 = new Exo8();
-            exo8.Execute();
+            //Exo8 exo8 = new Exo8();
+            //exo8.Execute();
+
+            //Exo9 exo9 = new Exo9();
+            //exo9.Execute2();
+
+            Exo10 exo10 = new Exo10();
+            exo10.Execute();
         }
     }
 }
