@@ -7,8 +7,11 @@
             //Exo1 exo1 = new Exo1();
             //exo1.Execute();
 
-            Exo2 exo2 = new Exo2();
-            exo2.Execute3();
+            //Exo2 exo2 = new Exo2();
+            //exo2.Execute3();
+
+            Exo3 exo3 = new Exo3();
+            exo3.Execute();
         }
     }
 }
