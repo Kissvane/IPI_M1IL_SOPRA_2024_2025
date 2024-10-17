@@ -31,8 +31,26 @@
             //Exo9 exo9 = new Exo9();
             //exo9.Execute2();
 
-            Exo10 exo10 = new Exo10();
-            exo10.Execute();
+            //Exo10 exo10 = new Exo10();
+            //exo10.Execute();
+
+            //Exo11 exo11 = new Exo11();
+            //exo11.Execute();
+
+            //Exo12 exo12 = new Exo12();
+            //exo12.Execute();
+
+            //Exo13 exo13 = new Exo13();
+            //exo13.Execute();
+
+            //Exo14 exo14 = new Exo14();
+            //exo14.Execute();
+
+            //Exo15 exo15 = new Exo15();
+            //exo15.Execute();
+
+            Exo16 exo16 = new Exo16();
+            exo16.Execute(new int[] { 1,2,3,4,5,6,7,8,9,10});
         }
     }
 }
