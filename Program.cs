@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Exo1 exo1 = new Exo1();
-            exo1.Execute();
+            //Exo1 exo1 = new Exo1();
+            //exo1.Execute();
+
+            Exo2 exo2 = new Exo2();
+            exo2.Execute3();
         }
     }
 }
