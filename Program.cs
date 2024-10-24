@@ -70,8 +70,11 @@
             //Exo22 exo22 = new Exo22();
             //exo22.Execute();
 
-            Exo23 exo23 = new Exo23();
-            exo23.Execute();
+            //Exo23 exo23 = new Exo23();
+            //exo23.Execute();
+
+            Exo24 exo24 = new Exo24();
+            exo24.Execute();
         }
     }
 }
